@@ -13,5 +13,6 @@ public class Project {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("Mình là sv lớp it17311");
     }
 }
